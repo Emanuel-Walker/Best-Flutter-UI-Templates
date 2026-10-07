@@ -1,3 +1,5 @@
+> **Repository status:** historical learning fork of `mitesh77/Best-Flutter-UI-Templates`. The upstream project and MIT license remain credited to Mitesh Chodvadiya. This is not part of my current portfolio. See `FORK_STATUS.md`.
+
 # Best-Flutter-UI-Templates
 completely free for everyone. Its build-in Flutter Dart.
 
