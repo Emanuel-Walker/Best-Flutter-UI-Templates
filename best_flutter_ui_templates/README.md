@@ -1,16 +1,36 @@
-# best_flutter_ui_templates
+# Flutter app folder
 
-A new Flutter project.
+This is the application folder from the historical upstream project:
 
-## Getting Started
+```text
+mitesh77/Best-Flutter-UI-Templates
+```
 
-This project is a starting point for a Flutter application.
+It is preserved as learning material.
 
-A few resources to get you started if this is your first Flutter project:
+## Toolchain note
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+The current `pubspec.yaml` targets:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```text
+Dart >=2.7.0 <3.0.0
+```
+
+Modern Flutter installations may require a migration before this app runs.
+
+## Historical run path
+
+With a compatible Flutter/Dart toolchain:
+
+```bash
+flutter pub get
+flutter run
+```
+
+## Where to look
+
+- `lib/` = Dart UI implementation
+- `assets/` = images and fonts
+- `pubspec.yaml` = dependencies and asset declarations
+
+Do not treat this folder as an original current Emanuel Walker application. See the repo-root `FORK_STATUS.md`.
